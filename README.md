@@ -1,4 +1,9 @@
 ## Hi there 👋
+Hello! I'm Casey Perlinger-Jett
+
+The purpose of this account is to serve as a portfolio to showcase projects I have worked on, alongside works of code I've constructed.
+
+
 
 <!--
 **CPerlingerJett/CPerlingerJett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
