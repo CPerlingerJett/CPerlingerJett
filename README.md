@@ -3,6 +3,8 @@ Hello! I'm Casey Perlinger-Jett
 
 The purpose of this account is to serve as a portfolio to showcase projects I have worked on, alongside works of code I've constructed.
 
+I'm hoping to update this repository every Friday with progress regarding its contents.
+
 
 
 <!--
